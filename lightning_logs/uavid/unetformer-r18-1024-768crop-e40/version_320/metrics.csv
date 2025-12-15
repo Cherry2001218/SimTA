@@ -1,0 +1,2 @@
+epoch,step,train_OA,train_F1,train_R2,train_mIoU
+0,348,0.0,nan,nan,nan
